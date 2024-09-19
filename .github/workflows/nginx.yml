@@ -1,6 +1,6 @@
 
 # define a imagem base
-FROM debian:latest
+FROM alpine
 # define o mantenedor da imagem
 LABEL maintainer="Macoratti"
 # Atualiza a imagem com os pacotes
